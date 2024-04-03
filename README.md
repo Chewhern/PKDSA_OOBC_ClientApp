@@ -1,6 +1,8 @@
 # PKDSA_OOBC_ClientApp
 
-**This application relies on .Net 7.0 and AvaloniaUI.**
+1. **This application relies on .Net 7.0 and AvaloniaUI.**
+2. **Kindly use visual studio or any other applicable IDE to do "dotnet build" on PKDSA_OOBC_ClientApp.csproj and PKDSA_OOBC_ClientApp.Desktop.csproj.**
+3. **Search for the compiled application within "PKDSA_OOBC_ClientApp.Desktop/bin/debug/net7.0" folder**.
 
 Newer version of PKDSA uses out of band communication and web of trust to do trust validation and verification (Will upload in GitHub if have time).
 
